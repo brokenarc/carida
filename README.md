@@ -4,24 +4,29 @@
 
 Carida is a font based on the [Aurebesh](https://starwars.fandom.com/wiki/Aurebesh) writing system used in various Star Wars media. The font includes all 34 letters, standard and alternative digits, and 15 punctuation symbols. Points and corners are slightly rounded, and most glyph pairs are kerned.
 
+- [Overview](#overview)
+- [Downloading](#downloading)
+- [Letters](#letters)
+- [Digits](#digits)
+- [Punctuation](#punctuation)
+- [Alternate Digits](#alternate-digits)
+- [TODOs](#todos)
+
+## Overview
+
 ![Carida glyph sheet](./assets/glyph-sheet.png)
 
 Glyphs are constructed on a grid of 32 columns and 20 rows with the ascender and descender adding 4 and 2 rows, respectively. The letter Shen has a wider glyph due to its leading diacritic symbol.
 
 This is a fan work intended for use by cosplayers, LARPers, and TTRPG players. Star Wars, Aurebesh, and the Aurebesh glyph designs are the property of LucasFilm Ltd. These font files are provided under the [SIL Open Font License (OFL) version 1.1](https://openfontlicense.org/).
 
-## TODOs
+## Downloading
 
-- Further fine tuning of kerning
-- Migrate to open source workflow
+You can download the latest release from the link below. The ZIP file includes desktop (OpenType) and web font formats.
 
-## Details <!-- omit in toc -->
+- [Carida Latest Release](https://github.com/brokenarc/carida/releases/download/20240828/Carida-20240828.zip)
 
-- [TODOs](#todos)
-- [Letters](#letters)
-- [Digits](#digits)
-- [Punctuation](#punctuation)
-- [Alternate Digits](#alternate-digits)
+
 
 ## Letters
 
@@ -117,3 +122,8 @@ The [alternate numerical system](https://starwars.fandom.com/wiki/Aurebesh#Alter
 | ![7](./assets/glyphs/digit-alt-7.png) | Seven | `U+2466`        |
 | ![8](./assets/glyphs/digit-alt-8.png) | Eight | `U+2467`        |
 | ![9](./assets/glyphs/digit-alt-9.png) | Nine  | `U+2468`        |
+
+## TODOs
+
+- Further fine tuning of kerning
+- Migrate to open source workflow
