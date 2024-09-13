@@ -21,7 +21,7 @@ Glyphs are constructed on a grid of 32 columns and 20 rows with the ascender and
 
 ## Download & Install
 
-You can download the latest version by clicking this link: [Download Carida](https://github.com/brokenarc/bantha-fonts/releases/latest/download/carida.zip)
+You can download the latest version by clicking this link: [Download Carida](https://github.com/brokenarc/carida/releases/latest/download/carida.zip)
 
 The download contains the font in `.otf` format for use on Windows, macOS, and Linux. Consult your operating system's documentation for guidance on how to install fonts.
 
